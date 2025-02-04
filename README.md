@@ -49,6 +49,13 @@ cd build
 cmake ..
 make
 ```
+7. Os arquivos .uf2 e .elf serão gerados. Use para editar seu arquivo wokwi.toml e iniciar a simulação
+
+```[wokwi]
+version = 1
+firmware = 'path-to-your-firmware.hex'
+elf = 'path-to-your-firmware.elf'
+```
 
 ## Observações
 - Implementado em C usando Pico SDK
