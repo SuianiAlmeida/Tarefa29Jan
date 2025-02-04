@@ -26,7 +26,7 @@ Este repositório contém duas simulações de semáforo utilizando o Raspberry 
 
 1. Clone o repositório:
 ```bash
-git clone [https://github.com/SuianiAlmeida/Tarefa27Jan.git]
+git clone [https://github.com/SuianiAlmeida/Tarefa29Jan.git]
 ```
 
 2. Configure a variável de ambiente PICO_SDK_PATH apontando para o diretório do SDK:
